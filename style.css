@@ -111,6 +111,7 @@ body{
 }
 
 #bd2Menu > img{
+	margin: 30px;
 }
 #contact{
 	clear:both;
