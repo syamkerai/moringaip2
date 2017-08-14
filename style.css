@@ -26,6 +26,10 @@ body{
 	color:white;
 	margin-top:-175px;
 }
+#menu{
+	display: block;
+	height: 210px;
+}
 .menus{
 	width: 25%;
 	display: block;
@@ -63,18 +67,60 @@ body{
 #menu1 > #subMenu2{
 	background-color: #e84c09;
 }
-#body{
+#body1{
 	width: 100%;
 	border-style:solid;
 	border-width: 2px;
+	clear: both;
 }
-#body .columns{
-	width: 50%;
-	display:block;
+#body1 > .columns{
+	width: 45%;
 	padding: 30px;
-	border-style:solid;
-	border-width: 2px;
-	height:200px;
 	float: left;
-	
+}
+#body2{
+	clear:both;
+	display: block;
+	width: 100%;
+	height: 599px;
+	background-image: url("assets/backgrounds/foodsBg.jpg");
+}
+#content{
+	display: inline-block;
+	width: 75%;
+	margin: 160px;
+	height: 100px;
+	background-color: white;
+}
+#bd2Menu{
+	width: 100%;
+}
+#bd2Menu > .menuItm{
+	display: inline-block;
+	width: 24.5%;
+	font-size: 30px;
+	color: dark-grey;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: gray;
+}
+#bd2Menu > .select{
+	background-color: white;
+	color: #e84c09;
+}
+
+#bd2Menu > img{
+}
+#contact{
+	clear:both;
+	display: block;
+	width: 100%;
+	height: 301px;
+	background-image: url("assets/backgrounds/subscribe.jpg");
+}
+#footer{
+	width: 100%;
+	height: 300px;
+	background-color: #e84c09;
 }
