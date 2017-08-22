@@ -126,7 +126,7 @@ body{
 #comments{
 	display: block;
 	width: 1000px;
-	height: 200px;
+	height: 450px;
 	padding: 200px;
 	text-align: center;
 }
@@ -134,8 +134,8 @@ body{
 	width: 55%;
 	float: left;
 	border: solid 1px gray;
-	height: 100%;
-	padding: 30px;
+	height: 20%;
+	padding: 68px;
 
 }
 #comments > #cont2{
