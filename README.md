@@ -1,6 +1,6 @@
 Project title
 
- moringa prep independent project 2.
+ moringa prep independent project 2.(Anitas kitchen)
 
 Author syam kerai
 
@@ -10,10 +10,8 @@ Atom editor Google chrome
 
 Features
 
-A game of basic pingpong
-How to use?
+Basic one page html css website for a resturant called menue
 
-The user has to write a number and follow the instruction rules.
 
 MIT License
 
