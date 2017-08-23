@@ -1,3 +1,7 @@
+link to the project
+
+https://syamkerai.github.io/moringaip2/
+
 Project title
 
  moringa prep independent project 2.(Anitas kitchen)
