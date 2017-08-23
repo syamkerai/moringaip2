@@ -1,23 +1,23 @@
-link to the project
+# Project title
 
-https://syamkerai.github.io/moringaip2/
+ Moringa prep independent project 2.
 
-Project title
+## Author syam kerai
 
- moringa prep independent project 2.(Anitas kitchen)
+## Tech/framework used
 
-Author syam kerai
+* Atom editor
+* Google chrome
 
-Tech/framework used
+## Features
 
-Atom editor Google chrome
+A game of basic pingpong
 
-Features
+## How to use?
 
-Basic one page html css website for a resturant called menue
+The user has to write a number and follow the instruction rules.
 
-
-MIT License
+##### MIT License
 
 Copyright (c) [2017] [syam kerai]
 
