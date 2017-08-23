@@ -1,6 +1,6 @@
 # Project title
 
- Moringa prep independent project 2.
+ Moringa prep independent project 2 menue webpage.
 
 ## Author syam kerai
 
@@ -11,11 +11,8 @@
 
 ## Features
 
-A game of basic pingpong
+A basic resturant website.
 
-## How to use?
-
-The user has to write a number and follow the instruction rules.
 
 ##### MIT License
 
