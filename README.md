@@ -3,7 +3,8 @@
 
  Moringa prep independent project 2 menue webpage.
 
-## Author syam kerai
+## Author
+syam kerai
 
 ## Tech/framework used
 
